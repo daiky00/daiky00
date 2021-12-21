@@ -9,7 +9,7 @@ You can checkout my portfolio here: https://www.franciscopena.co/
 - 👯 &nbsp; I’m looking to collaborate on open source projects
 - 🤔 &nbsp; I’m looking for help with anything I might be missing in the frontend space.
 - 💬 &nbsp; Ask me about all things frontend
-- 📫 &nbsp; How to reach me: mr.franciscopena@gmail.com
+- 📫 &nbsp; How to reach me: mr.franciscopenapublic@gmail.com
 - ⚡  &nbsp; Fun fact: Do you know that react-query might be the next big thing?
 
 ### 🔨 Languages and Tools:
