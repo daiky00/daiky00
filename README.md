@@ -4,7 +4,7 @@ You can checkout my portfolio here: https://www.franciscopena.co/
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on [Nami](https://github.com/namiml) and [omgkawaii](https://omgkawaii.com/)
+- 🔭 &nbsp; I’m currently working on [omgkawaii](https://omgkawaii.com/)
 - 🌱 &nbsp; I’m currently learning [react-query](https://react-query.tanstack.com)
 - 👯 &nbsp; I’m looking to collaborate on open source projects
 - 🤔 &nbsp; I’m looking for help with anything I might be missing in the frontend space.
