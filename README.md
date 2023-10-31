@@ -8,7 +8,7 @@ You can checkout my portfolio here: https://www.franciscopena.co/
 - 👯 &nbsp; I’m looking to collaborate on open source projects
 - 🤔 &nbsp; I’m looking for help with anything I might be missing in the frontend space.
 - 💬 &nbsp; Ask me about all things frontend
-- 📫 &nbsp; How to reach me: mr.franciscopenapublic@gmail.com
+- 📫 &nbsp; How to reach me: mr.franciscopenajobs@gmail.com
 
 ### Languages:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
