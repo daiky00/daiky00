@@ -17,9 +17,8 @@ You can checkout my portfolio here: https://www.franciscopena.co/
 <a href="https://angular.io/" target="_blank"> <img align="left" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="firebase" height="42px"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
 <a href="https://vuejs.org" target="_blank"> <img align="left" alt="VueJS" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png"></a>
-<a href="https://react-query.tanstack.com/" target="_blank"> <img align="left" alt="React Query" height="42px" src="https://react-query-v3.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg"></a>
 <a href="https://graphql.org" target="_blank"> <img align="left" alt="React" height="42px" src="https://graphql.org/img/logo.svg"></a>
-<a href="https://sass-lang.com" target="_blank"> <img align="left" alt="React" height="42px" src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg"></a>
+<a href="https://sass-lang.com" target="_blank"> <img align="left" alt="SASS" height="42px" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/121px-Sass_Logo_Color.svg.png"></a>
 <a href="https://lesscss.org" target="_blank"> <img align="left" alt="React" height="42px" height="42px" src="https://lesscss.org/public/img/less_logo.png"></a>
 
 
